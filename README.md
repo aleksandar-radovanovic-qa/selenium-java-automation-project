@@ -38,4 +38,4 @@ mvn test
 
 **Aleksandar Radovanovic**  
 QA Engineer | ISTQB® CTFL Certified  
-[LinkedIn](https://www.linkedin.com/in/your-linkedin-url)
+[LinkedIn](www.linkedin.com/in/aleksandar-radovanovic-qa)
