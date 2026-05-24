@@ -6,10 +6,10 @@ Automated end-to-end UI test suite for [biomarket.rs](https://www.biomarket.rs/)
 
 | # | Test Name | Priority |
 |---|-----------|----------|
-| 1 | Validate login with empty username | Medium |
-| 2 | Validate login with empty password | Medium |
-| 3 | Validate login with invalid username and password | High |
-| 4 | Validate login with valid username and password | High |
+| 1 | Validate login with an empty Email | Medium |
+| 2 | Validate login with an empty password | Medium |
+| 3 | Validate login with invalid Email and password | High |
+| 4 | Validate login with valid Email and password | High |
 | 5 | Validate logout of an already logged in user | High |
 | 6 | Validate removing item from a shopping cart | Medium |
 | 7 | Validate completing a purchase of an item | High |
